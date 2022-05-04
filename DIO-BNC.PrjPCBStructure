@@ -1,2 +1,4 @@
 Record=TopLevelDocument|FileName=DIO-BNC.schdoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DIO-BNC.schdoc|Designator=U_DIO-BNC_CH0-3|SchDesignator=U_DIO-BNC_CH0-3|FileName=DIO-BNC_CH0-3.schdoc|SheetNumber=3|SymbolType=Normal|RawFileName=DIO-BNC_CH0-3.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DIO-BNC.schdoc|Designator=U_DIO-BNC_CH4-7|SchDesignator=U_DIO-BNC_CH4-7|FileName=DIO-BNC_CH4-7.schdoc|SheetNumber=4|SymbolType=Normal|RawFileName=DIO-BNC_CH4-7.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=DIO-BNC.schdoc|Designator=U_DIO-BNC_Supply|SchDesignator=U_DIO-BNC_Supply|FileName=DIO-BNC_Supply.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DIO-BNC_Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
